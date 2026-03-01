@@ -1,0 +1,36 @@
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environment ───────────────────────────────────────
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── OS files ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── VS Code ───────────────────────────────────────────────────
+.vscode/settings.json
+.vscode/launch.json
+
+# ── Trained model binaries (large, regeneratable) ────────────
+models/*.pt
+models/*.pth
+models/*.pkl
+models/*.h5
+
+# ── IMPORTANT: data/raw/ is kept in git (via LFS for large files)
+# Do NOT add data/ to gitignore — datasets must be shared with teammates
