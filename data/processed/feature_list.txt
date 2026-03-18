@@ -1,0 +1,116 @@
+# Features in TB Multimodal Integrated Dataset
+
+Total: 112 features
+
+  1. ASPRV1
+  2. C10ORF27
+  3. C1QBP
+  4. C2
+  5. C20ORF3
+  6. C21ORF29
+  7. C3ORF31
+  8. C4ORF19
+  9. C5ORF13
+ 10. C6ORF148
+ 11. C8G
+ 12. C8ORF13
+ 13. C8ORF40
+ 14. CALM3
+ 15. CASP3
+ 16. CBX1
+ 17. CCDC88A
+ 18. CCDC90A
+ 19. CCM2
+ 20. CHMP2B
+ 21. CLP1
+ 22. CTAGE6
+ 23. DGUOK
+ 24. HS.578099
+ 25. KCNJ15
+ 26. KIAA1666
+ 27. LDHC
+ 28. LOC401398
+ 29. LOC441459
+ 30. LOC641719
+ 31. LOC644066
+ 32. LOC644472
+ 33. LOC645010
+ 34. LOC646720
+ 35. LOC647995
+ 36. LOC648716
+ 37. MAF
+ 38. MRPL48
+ 39. OTUB2
+ 40. PABPC1
+ 41. TSC22D2
+ 42. WDR22
+ 43. WDR31
+ 44. WDR59
+ 45. WDR60
+ 46. WDR87
+ 47. WFS1
+ 48. WNT7B
+ 49. YTHDC2
+ 50. ZBTB45
+ 51. pathway_interferon_response
+ 52. pathway_inflammatory_response
+ 53. pathway_neutrophil_activation
+ 54. snp_rs7607919
+ 55. snp_rs111875628
+ 56. snp_rs8180820
+ 57. snp_rs11607607
+ 58. snp_rs62045225
+ 59. snp_rs62094793
+ 60. snp_rs200331599
+ 61. snp_rs447600
+ 62. snp_rs267951
+ 63. snp_rs74875032
+ 64. snp_rs142600697
+ 65. snp_rs1118438
+ 66. snp_rs558237
+ 67. snp_rs59441182
+ 68. snp_rs4563899
+ 69. snp_rs4331426
+ 70. snp_rs529617685
+ 71. snp_rs140780894
+ 72. genetic_burden_score
+ 73. RH2M_mean
+ 74. T2M_mean
+ 75. PM2.5
+ 76. PM10
+ 77. NO
+ 78. NO2
+ 79. NOx
+ 80. NH3
+ 81. CO
+ 82. SO2
+ 83. O3
+ 84. Benzene
+ 85. Toluene
+ 86. Xylene
+ 87. AQI
+ 88. RH2M_mean_scaled
+ 89. T2M_mean_scaled
+ 90. PM2.5_scaled
+ 91. PM10_scaled
+ 92. NO_scaled
+ 93. NO2_scaled
+ 94. NOx_scaled
+ 95. NH3_scaled
+ 96. CO_scaled
+ 97. SO2_scaled
+ 98. O3_scaled
+ 99. Benzene_scaled
+100. Toluene_scaled
+101. Xylene_scaled
+102. AQI_scaled
+103. CXCL10
+104. IL6
+105. TNF
+106. IL1B
+107. IL8
+108. CRP
+109. SAA1
+110. IFIT1
+111. IFIT3
+112. OAS1

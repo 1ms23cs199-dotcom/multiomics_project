@@ -1,0 +1,29 @@
+{
+  "total_features": 112,
+  "feature_categories": {
+    "genomic_biomarkers": 88,
+    "pathways": 3,
+    "snp_risk_scores": 19,
+    "environmental": 12,
+    "serum_proteins": 10
+  },
+  "sample_statistics": {
+    "n_total": 616,
+    "n_train": 492,
+    "n_test": 124,
+    "n_tb": 308,
+    "n_control": 308,
+    "pct_tb": 50.0,
+    "pct_control": 50.0
+  },
+  "normalization": {
+    "method": "StandardScaler",
+    "mean": 0,
+    "std": 1
+  },
+  "balancing": {
+    "method": "SMOTE",
+    "k_neighbors": 5,
+    "synthetic_samples_added": 11
+  }
+}
